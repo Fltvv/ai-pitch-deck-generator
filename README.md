@@ -1,5 +1,3 @@
-# sun-is-moon
-
 Решение:
 - Генерация презентаций (./backend/work_with_presentation)
 - Генерация картинок (./backend/Pictures_generator_github.ipynb)
